@@ -7,8 +7,10 @@
 
 ## Associated Notebooks:
 
-- [Installation test](install_test.ipynb) - A simple Jupyter notebook to ensure that everything is installed correctly
-- [Python Gotchas](python_gotchas.ipynb) - A collection of issues and quirks in the Python language that can be confusing and difficult for new Python users.
+- [Intro Lecture](lecture0-python_basics.ipynb) - Intro to some basic aspects of Python.
+- [Intro Exercises](exercises-intro.ipynb) - A simple Jupyter notebook to ensure that everything is installed correctly.
+- [Intro Homework](homework-intro.ipynb) - A few easy homework problems to practice submitting homeworks.
+
 
 ## Overview
 
