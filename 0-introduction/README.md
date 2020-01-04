@@ -2,7 +2,7 @@
 
 ## Recommended Reading:
 
-- "Machine Learning Refined" Ch. 1
+- [Scientific Computing in Python](https://github.com/jrjohansson/scientific-python-lectures) Lectures 0-4
 - [Course syllabus](data/syllabus.pdf)
 
 ## Associated Notebooks:
