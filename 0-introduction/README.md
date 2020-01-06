@@ -2,12 +2,12 @@
 
 ## Recommended Reading:
 
-- "Machine Learning Refined" Ch. 1
+- ["Scientific Computing with Python"](https://github.com/jrjohansson/scientific-python-lectures) Lectures 0-4
 - [Course syllabus](data/syllabus.pdf)
 
 ## Associated Notebooks:
 
-- [Intro Lecture](lecture0-python_basics.ipynb) - Intro to some basic aspects of Python.
+- [Intro Lecture](lecture-python_basics.ipynb) - Intro to some basic aspects of Python.
 - [Intro Exercises](exercises-intro.ipynb) - A simple Jupyter notebook to ensure that everything is installed correctly.
 - [Intro Homework](homework-intro.ipynb) - A few easy homework problems to practice submitting homeworks.
 
