@@ -3,7 +3,7 @@
 ## Recommended Reading:
 
 - "Machine Learning Refined" Ch. 1-2, Appendix A-C
-- "Numerical Linear Algebra" Ch. 1
+- "Numerical Linear Algebra" Ch. 1 (Lectures 1-5)
 
 ## Associated Notebooks:
 
