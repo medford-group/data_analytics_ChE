@@ -9,8 +9,8 @@
 
 ### Lectures
 - [Linear Algebra](lecture-linear_algebra.ipynb) - Refresher on matrix-vector multpilication, linear systems, and eigenvalues.
-- [Linear Regression]()
-- [Numerical Optimization]()
+- [Linear Regression](lecture-linear_regression.ipynb) - Linear regression, polynomial regression, and general linear regression.
+- [Numerical Optimization](lecture-numerical_optimization.ipynb) - Non-linear regression, automatic differentiation, and gradient descent.
 
 ### Excercises
 - [Numerical Methods Exercises](exercises-numerical_methods.ipynb)
