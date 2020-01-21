@@ -13,7 +13,7 @@
 - [High-Dimensional Data](lecture-high_dimensional_data.ipynb) - Feature visualization, multi-linear regression, forward selection, principal component regression
 
 ### Excercises
-- [Regression Exercises](exercises-regression.ipynb) (in progress)
+- [Regression Exercises](exercises-regression.ipynb)
 
 ### Homework
 - Regression Homework (coming soon)
