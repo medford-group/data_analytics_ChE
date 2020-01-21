@@ -1,4 +1,4 @@
-# Numerical Methods
+# Regression
 
 ## Recommended Reading:
 
