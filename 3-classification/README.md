@@ -15,5 +15,5 @@
 - [Classification Exercises](exercises-classification.ipynb)
 
 ### Homework
-- Regression Homework (coming soon)
+- Classification Homework (coming soon)
 
