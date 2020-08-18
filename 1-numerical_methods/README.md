@@ -12,9 +12,7 @@
 - [Linear Regression](lecture-linear_regression.ipynb) - Linear regression, polynomial regression, and general linear regression.
 - [Numerical Optimization](lecture-numerical_optimization.ipynb) - Non-linear regression, automatic differentiation, and gradient descent.
 
-### Excercises
-- [Numerical Methods Exercises](exercises-numerical_methods.ipynb)
-
-### Homework
-- [Numerical Methods Homework](homework-numerical_methods.ipynb)
+### Assignments
+- [Assignment 1](Assignment_1.ipynb)
+- [Assignment 2](Assignment_1.ipynb)
 
