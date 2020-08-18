@@ -13,6 +13,6 @@
 - [Numerical Optimization](lecture-numerical_optimization.ipynb) - Non-linear regression, automatic differentiation, and gradient descent.
 
 ### Assignments
-- [Assignment 1](Assignment_1.ipynb)
-- [Assignment 2](Assignment_1.ipynb)
+- [Assignment 1](Assignment1.ipynb)
+- [Assignment 2](Assignment2.ipynb)
 
