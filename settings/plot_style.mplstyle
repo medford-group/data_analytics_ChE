@@ -13,7 +13,6 @@ ytick.direction : in
 
 lines.linewidth : 2
 lines.linestyle : --
-lines.marker : o
 
 figure.titlesize : 18
 figure.titleweight : bold
