@@ -8,13 +8,7 @@
 ## Associated Notebooks:
 
 ### Lectures
-- [Linear Algebra](lecture-linear_algebra.ipynb) - Refresher on matrix-vector multpilication, linear systems, and eigenvalues.
-- [Linear Regression](lecture-linear_regression.ipynb) - Linear regression, polynomial regression, and general linear regression.
-- [Numerical Optimization](lecture-numerical_optimization.ipynb) - Non-linear regression, automatic differentiation, and gradient descent.
-
-### Excercises
-- [Numerical Methods Exercises](exercises-numerical_methods.ipynb)
-
-### Homework
-- [Numerical Methods Homework](homework-numerical_methods.ipynb)
-
+- [Python Basics](Topic1-Python_Basics.ipynb) - Intro to some basic aspects of Python.
+- [Linear Algebra](Topic2-Linear_Algebra.ipynb) - Refresher on matrix-vector multpilication, linear systems, and eigenvalues.
+- [Linear Regression](Topic3-Linear_Regression.ipynb) - Linear regression, polynomial regression, and general linear regression.
+- [Numerical Optimization](Topic4-Numerical_Optimization.ipynb) - Non-linear regression, automatic differentiation, and gradient descent.
