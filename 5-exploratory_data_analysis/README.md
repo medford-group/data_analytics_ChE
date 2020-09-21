@@ -10,7 +10,7 @@ When working with large and high-dimensional datasets it can be difficult to get
 ## Associated Notebooks:
 
 ### Lectures
-- [High Dimensional Data](Topic1-High-dimensional_Data.ipynb) - Introduction to high-dimensional data, inspecting and visualizing features.
+- [High Dimensional Data](Topic1-High_Dimensional_Data.ipynb) - Introduction to high-dimensional data, inspecting and visualizing features.
 - [Dimensionality Reduction](Topic2-Dimensionality_Reduction.ipynb) - Performance assessment, principal component analysis, manifold learning.
 - [Clustering](Topic3-Clustering.ipynb) - Expectation-Maximization models (k-means), density based models (mean shift), and hierarchical models.
 - [Generative Models](Topic4-Generative_Models.ipynb) - Intro to generative models, Gaussian mixture models, and kernel density estimation.
