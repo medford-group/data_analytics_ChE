@@ -11,9 +11,5 @@ I do not know of many official sources on data management, but the following res
 ## Associated Notebooks:
 
 ### Lectures
-- [Data Organization](lecture-data_organization.ipynb) - Working with spreadsheets, cleaning data, working with large datasets
-- [Online Data Access](lecture-online_data_access.ipynb) - Web requests, JSON files, RESTful and Python APIs
-
-### Excercises
-- [Data Management Exercises](exercises-data_management.ipynb)
-
+- [Data Organization](Topic1-Data_Organization.ipynb) - Working with spreadsheets, cleaning data, working with large datasets.
+- [Online Data Access](Topic2-Online_Data_Access.ipynb) - Web requests, JSON files, RESTful and Python APIs.
