@@ -9,11 +9,5 @@ A model can only be as good as it's inputs, and in data analytics it is not alwa
 ## Associated Notebooks:
 
 ### Lectures
-- [Feature Transformations](lecture-feature_transformations.ipynb) - One-hot encoding, partial least squares, linear discriminant analysis, symbolic regression
-- Time Series Analysis - Coming soon
-### Excercises
-- [Feature Engineering Exercises](exercises-feature_engineering.ipynb)
-
-### Homework
-- [Feature Engineering Homework](homework-feature_engineering.ipynb)
-
+- [Feature Transformations](Topic1-Feature_Transformations.ipynb) - One-hot encoding, partial least squares, linear discriminant analysis, symbolic regression.
+- [Time Series Analysis](Topic2-Time_Series_Analysis.ipynb) - Coming soon
