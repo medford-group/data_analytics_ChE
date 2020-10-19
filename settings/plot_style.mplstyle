@@ -1,13 +1,13 @@
 axes.prop_cycle : cycler('color', ['003057', 'eaaa00', '4b8b9b', 'b3a369', '377117', '1879db', '002233', '8e8b76', 'f5d580'])
-axes.titlesize : 18
+axes.titlesize : 15
 axes.titleweight : ultralight
-axes.labelsize : 18
+axes.labelsize : 12
 axes.labelweight : ultralight
 
-xtick.labelsize : 18
+xtick.labelsize : 10
 xtick.direction : in
 
-ytick.labelsize : 18
+ytick.labelsize : 10
 ytick.left : True
 ytick.direction : in
 
@@ -17,7 +17,7 @@ lines.linestyle : --
 figure.titlesize : 18
 figure.titleweight : bold
 figure.figsize : 8, 6
-figure.dpi : 300
+figure.dpi : 150
 figure.autolayout : True
 
 savefig.dpi : 300
