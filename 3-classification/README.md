@@ -14,4 +14,4 @@
 
 ### Assignments
 - [Assignment 6](Assignment6.ipynb)
-- Assignment 7 - Coming soon
+- [Assignment 7](Assignment7.ipynb)
