@@ -12,7 +12,7 @@ ytick.left : True
 ytick.direction : in
 
 lines.linewidth : 2
-lines.linestyle : --
+lines.linestyle : -
 
 figure.titlesize : 18
 figure.titleweight : bold
@@ -31,4 +31,4 @@ font.style : normal
 
 mathtext.default : regular
 
-legend.fontsize : 15
+legend.fontsize : 1
