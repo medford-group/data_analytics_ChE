@@ -13,5 +13,5 @@ A model can only be as good as it's inputs, and in data analytics it is not alwa
 - [Time Series Analysis](Topic2-Time_Series_Analysis.ipynb) - Data importing and cleaning, smoothing and autocorrelation, stationarity, autoregressive models, and ARIMA modeling.
 
 ### Assignments
-- Assignment 11 - Coming soon
-- Assignment 12 - Coming soon
+- [Assignment 11](Assignment11.ipynb)
+- [Assignment 12](Assignment12.ipynb)
