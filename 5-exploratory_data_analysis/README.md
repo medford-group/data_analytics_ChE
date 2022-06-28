@@ -14,7 +14,3 @@ When working with large and high-dimensional datasets it can be difficult to get
 - [Dimensionality Reduction](Topic2-Dimensionality_Reduction.ipynb) - Performance assessment, principal component analysis, and manifold learning.
 - [Clustering](Topic3-Clustering.ipynb) - Expectation-Maximization models (k-means), density based models (mean shift), and hierarchical models.
 - [Generative Models](Topic4-Generative_Models.ipynb) - Intro to generative models, Gaussian mixture models, kernel density estimation, and not-so-naïve Bayes.
-
-### Assignments
-- [Assignment 9](Assignment9.ipynb)
-- [Assignment 10](Assignment10.ipynb)
